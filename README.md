@@ -1,3 +1,7 @@
+## Hi 👋, I'm Amith J Prakash from India
+### **A Data Science Aspirant**
+
+
 ## Work Experience
 - Assistant Manager - Training, Bimal Auto Agency
 Bengaluru
@@ -60,3 +64,10 @@ July 2022  -  August 2022, Data Science and Machine Learning Bootcamp at Jovian
 ●	Machine Learning: NLP, Scikit-learn, PyTorch, Tensor Flow
 ●	Soft Skill: Communication, Presentation, Training Delivery
 
+🌱 I’m currently learning Data Analysis and Visualizaion 
+
+👨‍💻 All  my Projects are available at Jovian Profile
+
+💬 Ask me about MySQL, Python, Statistics, Web scrapping, EDA
+
+📫 How to reach me jp.amith@gmail.com
